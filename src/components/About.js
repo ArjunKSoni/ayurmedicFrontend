@@ -116,11 +116,11 @@ export default function About() {
             </section>
                 
             <footer className="footer1">
-                <div className="top1">&copy; 2023 Medveda</div>
+                <div className="top1">&copy; 2023 Ayurmedic</div>
                 <div className="bottom1">
                     <div className="website1">
                         <div className="webname1">Ayurmedic</div>
-                            <div className="webabout1">hvudvegvuwvfuw</div>
+                            <div className="webabout1">All in one Ayurveda</div>
                     </div>
                     <div className="creator1">
                         <div className="creatorhead1">Creators</div>
